@@ -73,10 +73,42 @@ Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하�
 ![이미지링크]
 
 ## 팀원 목록 🧑‍🤝‍🧑
-- 이호성 [BE]
-- 홍진석 [BE]
-- 김현회 [BE]
-- 김태우 [BE]
+
+<details>
+  <summary> 이호성 [BE]</summary>
+  <ul>
+    <li>팀장</li>
+    <li>Database</li>
+    <li>Login API / JWT</li>
+    <li>동영상 제작</li>
+  </ul>
+</details>
+
+<details>
+  <summary> 홍진석 [BE]</summary>
+  <ul>
+    <li>Kurento 코드 포팅/수정</li>
+    <li>시그널링 서버 구축</li>
+    <li>User API</li>
+  </ul>
+</details>
+
+<details>
+  <summary> 김현회 [BE]</summary>
+  <ul>
+    <li>Kurento 코드 포팅/수정</li>
+    <li>시그널링 서버 구축</li>
+    <li>Conference API</li>
+  </ul>
+</details>
+
+<details>
+  <summary> 김태우 [BE]</summary>
+  <ul>
+    <li> 회원가입 및 로그인 </li>
+    <li> Jira Confluence 관리 </li>
+  </ul>
+</details>
 
 ## 빌드 및 배포 🚀
 (여기에 빌드 및 배포 방법을 작성하세요)
