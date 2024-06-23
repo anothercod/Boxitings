@@ -56,7 +56,7 @@ Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하�
 ## 시스템 구상도 📊
 
 ### 스포코 ERD 🗂️
-![이미지링크]
+![스포코 ERD](https://drive.google.com/file/d/1xjI7_KKNE5sPyaCgNmlDwvN_KOwnnKrc/view?usp=drive_link)
 
 ### 아키텍처 🏗️
 ![이미지링크]
