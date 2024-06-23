@@ -24,6 +24,7 @@ Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하�
 
 ### 협업 도구 🧑‍💻
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 개발 환경 / Development Environment 🛠️
 - **프로그래밍 언어 / Programming Language**: Java 17
