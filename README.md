@@ -91,7 +91,7 @@ main
 ```
 
 ### 스포코 ERD 🗂️
-![스포코 ERD](https://drive.google.com/uc?export=view&id=1xjI7_KKNE5sPyaCgNmlDwvN_KOwnnKrc)
+![스포코 ERD](https://drive.google.com/uc?export=view&id=1CZgm5Y-UtrQ_aCh8ycadnAFhYQdKz2Mr)
 
 ### 아키텍처 🏗️
 ![이미지링크]
