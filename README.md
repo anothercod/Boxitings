@@ -55,7 +55,7 @@ Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하�
 - Bouncy Castle Provider 1.69
 
 ## 시스템 구상도 📊
-- 프로젝트 구조
+### 프로젝트 구조 🗒️
 ```
 main
 └── java
