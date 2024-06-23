@@ -54,6 +54,40 @@ Study For Code는 알고리즘 스터디에서 필요한 고충들을 보완하�
 - Bouncy Castle Provider 1.69
 
 ## 시스템 구상도 📊
+- 프로젝트 구조
+```
+main
+└── java
+    └── goorm
+        └── message
+            ├── controller
+            ├── domain
+            ├── repository
+            └── service
+    └── spoco
+        └── domain
+            ├── algorithm
+            ├── auth
+            ├── category
+            ├── code
+            ├── join
+            ├── member
+            ├── review
+            ├── study
+            ├── subscribe
+            └── testcase
+        └── global
+            ├── common
+            ├── config
+            ├── error
+            └── util
+        └── infra
+            ├── compiler
+                ├── compiler
+                ├── dto
+                └── service
+        └── SpocoApplication
+```
 
 ### 스포코 ERD 🗂️
 ![스포코 ERD](https://drive.google.com/uc?export=view&id=drive/folders/11NuG4ND8cy_ID-NPU08ZuV8u1M4rccfx?usp=drive_link)
